@@ -1,17 +1,29 @@
-# 4.1 📌 (Práctica de interacción asistida con LLM) Proyecto Python + C + ARM64 Assembly
+# Reporte de Proyecto: Interacción Asistida con LLM
 
-**Nombre:** Pablo Angel Cuevas Marquez  
+ * Nombre del Proyecto: Proyecto Python + C + ARM64 Assembly
+ * Autor:  Pablo Angel Cuevas Marquez
+ * Correo: l23211943@tectijuana.edu.mx
+ * Fecha:  16/04/2026
+ * Curso:  Lenguajes de Interfaz, TECNM Campus ITT
+ * * Objetivo: Demostrar la capacidad de comunicación entre un lenguaje de alto nivel (Python) 
+ * y uno de bajo nivel (Assembly), comprendiendo el uso de la arquitectura ARM64 
+ * y el análisis de rendimiento.
+ * * Historial de Revisiones:
+ * 14/04/2026        Pablo Angel Cuevas Marquez - Creación de lógica base y Makefile
+ * 16/04/2026        Pablo Angel Cuevas Marquez - Actualización de evidencias y reporte técnico
+ */
+
+---
+
 **Materia:** Lenguajes de Interfaz  
 **Profesor:** Rene Solis Reyes  
-**Fecha:** 16 de Abril de 2026  
 
 ---
 
 ## Descripción
 Este proyecto implementa una librería de alto rendimiento en **ARM64 Assembly**, integrada con **Python** mediante un wrapper en **C** y la librería `ctypes`. El objetivo es demostrar la interoperabilidad entre lenguajes de alto y bajo nivel, analizando el flujo de datos desde el intérprete hasta los registros del CPU.
 
-## Objetivo
-Demostrar la capacidad de comunicación entre un lenguaje de alto nivel (Python) y uno de bajo nivel (Assembly), comprendiendo el uso de la arquitectura ARM64 y el análisis de rendimiento.
+---
 
 ## Tecnologías
 * **Lenguaje de Alto Nivel:** Python 3
